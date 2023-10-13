@@ -4,7 +4,7 @@
    # Do not use this in production. Sample purpose only.
    # Author: Teerthesh Jain
    # Additional Authors:
-   # GitHub: marquise-pullen
+   # GitHub: teerthesh706
    # Input:
    # p, principal amount
    # t, time period in years
