@@ -2,7 +2,7 @@
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
    # Do not use this in production. Sample purpose only.
-   # Author: Marquise Pullen
+   # Author: Teerthesh Jain
    # Additional Authors:
    # GitHub: marquise-pullen
    # Input:
